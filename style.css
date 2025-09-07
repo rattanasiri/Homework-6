@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* padding-left: 50px; */
+  
+}
+
+.topup {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.container1 {
+    padding-top: 40px;
+    display: flex;
+    padding-left: 200px;
+
+}
+
+.profileimage{
+    width: 300px;
+}
+.inputDS {
+    width: 200px;
+    display: flex;
+    justify-content: center ;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+}
+
+.container2 {
+    background-color: lightblue;
+    height: 200px;
+}
+
+.topcontainer2 {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    background-color: white ;
+    height: 100px;
+    margin: 10px;
+    padding: 10px
+}
+
+.worktop {
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.workbelow {
+    padding-left: 200px;
+}
+
+.work1, .work2, .work3{
+    display: flex;
+}
+
+.containerblog {
+    padding-left: 200px;
+
+}
+
+.blogheader{
+    font-size: large;
+    font-weight: bold;
+}
+
+hr {
+    width: 1100px;
+}
+
+.containerbottom {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.bottomlol {
+    text-align: center;
+}
